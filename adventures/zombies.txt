@@ -1,0 +1,24 @@
+You are in a dark room. : Search the room. = 1 | Make some noise. = 2 | Turn on your flashlight. = 3
+You find nothing in the darkness. : Make another choice. = 0
+You hear a rustling across the room. : Make another choice. = 0
+You are standing in a small stone room. There is door to the north : Open the door. = 4 | Make another choice. = 0
+You see a hallway stretching west and east into the darkness. : Go west. = 5 | Go east. = 6
+You enter a large room with a fountain and a door to the west. : Examine the fountain. = 7 | Open the western door. = 8
+A zombie attacks you in the crowded corridor. : You are now dead. = -1
+There is a rusted key in the fountain. : Choose another action. = 5 | Use the key to open the western door. = 9
+The western door is locked. : Choose another action. = 5
+You enter a corridor that leads to intersection of passageways. : Go west. = 10 | Go North. = 11 | Go South. = 12
+You see daylight at the end of the passageway, as well as an army zombies blocking your escape. There is a door to your right. : Run through the zombies to your freedom! = 18 | Open the door to your right. = 19 | Return to the intersection. = 16
+You see daylight at the end of the passageway, as well as 3 zombies blocking your escape. : Run through the zombies to your freedom! = 13 | Return to the intersection. = 9
+You reach a dead-end in the dusty passageway. : Search the dead-end. = 14 | Return to the intersection. = 9
+You manage to get past the zombies, but you are now scarred for life! : You escaped with your life. = -2
+You discover a hammer on the ground. : Take the hammer. = 15 | Return to the intersection. = 9
+You now have a hammer. : Return to the intersection. = 9
+You return to the intersection of passageways. : Go west. = 18 | Go North. = 11
+You see daylight at the end of the passageway, as well as an army zombies blocking your escape. There is a door to your right. : Run through the zombies to your freedom! = 18 | Open the door to your right. = 19 | Return to the intersection. = 16
+The army of zombies overcome you. : You are now dead. = -1
+You see a small stone room. : Search the room. = 20 | Return to the hallway. = 17
+You notice a small crack in the stone wall. There is light beaming in through the crack. : Use the hammer on the wall. = 21 | Return to the hallway. = 17
+You escape the zombie infested rooms into the daylight. : You escaped with your life. = -2
+You see a small stone room. : Search the room. = 23 | Return to the hallway. = 11
+You notice a small crack in the stone wall. There is light beaming in through the crack. : Return to the hallway. = 11
