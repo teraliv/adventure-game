@@ -9,7 +9,7 @@
 package adventure;
 
 /**
- * A driver class to create the adventure game.
+ * A driver class to create an adventure game.
  *
  * @author Alex Terikov
  * @version 1.0
