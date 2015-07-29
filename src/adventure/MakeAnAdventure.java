@@ -116,12 +116,12 @@ public class MakeAnAdventure {
                 System.out.println(currentChoice[LEFT_SIDE]);
                 return;
 
-                // handle survived status
+            // handle survived status
             } else if (choiceNumber == STATUS_SURVIVED) {
                 System.out.println(currentChoice[LEFT_SIDE]);
                 return;
 
-                // display choices
+            // display choices
             } else {
                 System.out.println(choice + ": " + currentChoice[LEFT_SIDE]);
             }
